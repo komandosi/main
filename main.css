@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(28, 68, 82);
+}
+  
+h1{
+    color: white;
+    text-align: center;
+}
+  
+div.top.p{
+    color: white;
+    font-family: verdana;
+    font-size: 20px;
+}
+
+div.top.a{
+    color: white;
+    font-family: verdana;
+    font-size: 24px;
+}
+div.top{
+    background-color:lightcyan;
+}
